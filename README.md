@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jefferson Salvador</h1>
 <h3 align="center">Aspiring Front-End/ Full Stack Web Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/jephew_" target="blank"><img src="https://img.shields.io/twitter/follow/jephew_?logo=twitter&style=for-the-badge" alt="jephew_" /></a> </p>
 <hr>
 📫 How to reach me **jeffersonb.salvador@gmail.com**
 <h3 align="left">Connect with me:</h3>
