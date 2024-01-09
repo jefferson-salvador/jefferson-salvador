@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jefferson Salvador</h1>
-<h3 align="center">Aspiring Front-End/ Web Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <hr>
 📫 How to reach me **jeffersonb.salvador@gmail.com**
